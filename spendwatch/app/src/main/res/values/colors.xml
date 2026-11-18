@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icon_background">#2F6E63</color>
+    <color name="page">#FF14110F</color>
+    <color name="card">#FF1F1B18</color>
+    <color name="ink">#FFF0EDEA</color>
+    <color name="ink_dim">#A6F0EDEA</color>
+    <color name="fine">#FF7FB069</color>
+    <color name="warning">#FFE9C46A</color>
+    <color name="critical">#FFEE8C5A</color>
+    <color name="blown">#FFE2574C</color>
+    <color name="accent">#FF4FA3A5</color>
+</resources>
